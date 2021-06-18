@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# Image Recognition Using Tensorflow Exmaple.
-# Code based on example at:
-# https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/examples/label_image/label_image.py
 import sys
 import time
 import queue
